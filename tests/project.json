@@ -6,11 +6,19 @@
   },
   "dependencies": {},
   "frameworks": {
+<<<<<<< HEAD
     "netcoreapp1.1": {
       "dependencies": {
         "Microsoft.NETCore.App": {
           "type": "platform",
           "version": "1.1.0"
+=======
+    "netcoreapp1.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "type": "platform",
+          "version": "1.0.0"
+>>>>>>> a0eaba74c7a97c6cc0f1f3007d272113710fc33d
         }
       },
       "imports": "dnxcore50"
